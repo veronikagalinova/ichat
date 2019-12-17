@@ -1,2 +1,2 @@
 # ichat
-A real-time chat application with Spring Boot and Angular
+A real-time chat application with Spring Boot and Angular 8
